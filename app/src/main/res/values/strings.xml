@@ -5,5 +5,6 @@
     <string name="http_404">Recurso no encontrado</string>
     <string name="http_401">Accion no autorizada</string>
     <string name="http_500">Error en el servidor</string>
+    <string name="search_users_bar">Busqueda de usuarios</string>
 
 </resources>

@@ -17,5 +17,4 @@ class User: Parcelable{
     @SerializedName("avatar_url")
     var avatarUrl: String? = null
     var name: String? = null
-
 }
