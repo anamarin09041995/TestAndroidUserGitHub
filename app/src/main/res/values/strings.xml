@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AndroidTest</string>
+    <string name="search_users">Buscar usuarios</string>
+    <string name="socket">El servidor no responde</string>
+    <string name="http_404">Recurso no encontrado</string>
+    <string name="http_401">Accion no autorizada</string>
+    <string name="http_500">Error en el servidor</string>
+
 </resources>
